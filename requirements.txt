@@ -376,7 +376,7 @@ tyro==0.8.5
 tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1707747584337/work
 ujson @ file:///home/conda/feedstock_root/build_artifacts/ujson_1715783105793/work
 unicodedata2 @ file:///home/conda/feedstock_root/build_artifacts/unicodedata2_1695847980273/work
-unsloth @ git+https://github.com/unslothai/unsloth.git@fd753fed99ed5f10ef8a9b7139588d9de9ddecfb
+unsloth @ git+https://github.com/unslothai/unsloth.git@a7bfbe7927ea75f959e1d7c84e7bf50945d405ff
 uri-template @ file:///home/conda/feedstock_root/build_artifacts/uri-template_1688655812972/work/dist
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1708239446578/work
 watchdog @ file:///home/conda/feedstock_root/build_artifacts/watchdog_1716561795369/work
